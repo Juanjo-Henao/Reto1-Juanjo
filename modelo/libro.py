@@ -6,3 +6,4 @@ class Libro:
         self.anio = anio
         self.categoria = categoria
         self.codigo_socio = codigo_socio
+        
