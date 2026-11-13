@@ -6,4 +6,12 @@ class Libro:
         self.anio = anio
         self.categoria = categoria
         self.codigo_socio = codigo_socio
+
+
+    def esta_disponible(self):
+        return self.codigo_socio is None
+
+    def __str__(self):
+        estado = "Disponible" if self.esta_disponible() else f"Prestado (Socio: {self.codigo_socio})"
+        return f"[{self.codigo}] {self.titulo} - {self.autor} ({self.anio}) | {estado}"
         
