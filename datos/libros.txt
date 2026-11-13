@@ -1,0 +1,101 @@
+101;Cien anos de soledad;Gabriel Garcia Marquez;1967;Novela;None
+102;Don Quijote de la Mancha;Miguel de Cervantes;1605;Clasico;None
+103;1984;George Orwell;1949;Ficcion;None
+104;El principito;Antoine de Saint-Exupery;1943;Infantil;None
+105;Fahrenheit 451;Ray Bradbury;1953;Ciencia Ficcion;None
+106;Orgullo y prejuicio;Jane Austen;1813;Romance;None
+107;Crimen y castigo;Fiódor Dostoyevski;1866;Novela;None
+108;El senor de los anillos;J.R.R. Tolkien;1954;Fantasia;None
+109;Un mundo feliz;Aldous Huxley;1932;Ciencia Ficcion;None
+110;El hobbit;J.R.R. Tolkien;1937;Fantasia;None
+111;Pedro Paramo;Juan Rulfo;1955;Novela;None
+112;Rayuela;Julio Cortazar;1963;Novela;None
+113;La metamorfosis;Franz Kafka;1915;Ficcion;None
+114;Los miserables;Victor Hugo;1862;Historica;None
+115;El retrato de Dorian Gray;Oscar Wilde;1890;Ficcion;None
+116;Ensayo sobre la ceguera;Jose Saramago;1995;Novela;None
+117;La sombra del viento;Carlos Ruiz Zafon;2001;Misterio;None
+118;El alquimista;Paulo Coelho;1988;Filosofia;None
+119;La casa de los espiritus;Isabel Allende;1982;Novela;None
+120;Ficciones;Jorge Luis Borges;1944;Relatos;None
+121;El nombre de la rosa;Umberto Eco;1980;Misterio;None
+122;Rebelion en la granja;George Orwell;1945;Satira;None
+123;El tuned;Ernesto Sabato;1948;Novela;None
+124;La ciudad y los perros;Mario Vargas Llosa;1963;Novela;None
+125;El amor en los tiempos del colera;Gabriel Garcia Marquez;1985;Romance;None
+126;La Odisea;Homero;-800;Clasico;None
+127;La Iliada;Homero;-750;Clasico;None
+128;Hamlet;William Shakespeare;1601;Drama;None
+129;Romeo y Julieta;William Shakespeare;1597;Tragedia;None
+130;Macbeth;William Shakespeare;1606;Tragedia;None
+131;Moby Dick;Herman Melville;1851;Aventura;None
+132;Las aventuras de Huckleberry Finn;Mark Twain;1884;Aventura;None
+133;Tom Sawyer;Mark Twain;1876;Aventura;None
+134;Frankenstein;Mary Shelley;1818;Terror;None
+135;Dracula;Bram Stoker;1897;Terror;None
+136;El resplandor;Stephen King;1977;Terror;None
+137;It;Stephen King;1986;Terror;None
+138;Carrie;Stephen King;1974;Terror;None
+139;Guerra y paz;Leon Tolstoi;1869;Historica;None
+140;Anna Karenina;Leon Tolstoi;1877;Novela;None
+141;Cumbres borrascosas;Emily Bronte;1847;Romance;None
+142;Jane Eyre;Charlotte Bronte;1847;Romance;None
+143;Dr. Jekyll y Mr. Hyde;Robert Louis Stevenson;1886;Misterio;None
+144;La isla del tesoro;Robert Louis Stevenson;1883;Aventura;None
+145;Veinte mil leguas de viaje submarino;Julio Verne;1870;Ciencia Ficcion;None
+146;Viaje al centro de la Tierra;Julio Verne;1864;Ciencia Ficcion;None
+147;La vuelta al mundo en 80 dias;Julio Verne;1872;Aventura;None
+148;El conde de Montecristo;Alexandre Dumas;1844;Aventura;None
+149;Los tres mosqueteros;Alexandre Dumas;1844;Aventura;None
+150;El viejo y el mar;Ernest Hemingway;1952;Novela;None
+151;Por quien doblan las campanas;Ernest Hemingway;1940;Historica;None
+152;Fiesta;Ernest Hemingway;1926;Novela;None
+153;El gran Gatsby;F. Scott Fitzgerald;1925;Novela;None
+154;El guardian entre el centeno;J.D. Salinger;1951;Novela;None
+155;Matar a un ruisenor;Harper Lee;1960;Novela;None
+156;Cien anos de soledad 2;Autor Ficticio;2020;Ficcion;None
+157;Sapiens;Yuval Noah Harari;2011;Historia;None
+158;Homo Deus;Yuval Noah Harari;2015;Historia;None
+159;21 lecciones para el siglo XXI;Yuval Noah Harari;2018;Historia;None
+160;El codigo Da Vinci;Dan Brown;2003;Misterio;None
+161;Angeles y demonios;Dan Brown;2000;Misterio;None
+162;Inferno;Dan Brown;2013;Misterio;None
+163;Harry Potter y la piedra filosofal;J.K. Rowling;1997;Fantasia;None
+164;Harry Potter y la camara secreta;J.K. Rowling;1998;Fantasia;None
+165;Harry Potter y el prisionero de Azkaban;J.K. Rowling;1999;Fantasia;None
+166;Harry Potter y el caliz de fuego;J.K. Rowling;2000;Fantasia;None
+167;Harry Potter y la orden del fenix;J.K. Rowling;2003;Fantasia;None
+168;Harry Potter y el misterio del principe;J.K. Rowling;2005;Fantasia;None
+169;Harry Potter y las reliquias de la muerte;J.K. Rowling;2007;Fantasia;None
+170;Juego de tronos;George R.R. Martin;1996;Fantasia;None
+171;Choque de reyes;George R.R. Martin;1998;Fantasia;None
+172;Tormenta de espadas;George R.R. Martin;2000;Fantasia;None
+173;Festin de cuervos;George R.R. Martin;2005;Fantasia;None
+174;Danza de dragones;George R.R. Martin;2011;Fantasia;None
+175;Dune;Frank Herbert;1965;Ciencia Ficcion;None
+176;El mesias de Dune;Frank Herbert;1969;Ciencia Ficcion;None
+177;Hijos de Dune;Frank Herbert;1976;Ciencia Ficcion;None
+178;Fundacion;Isaac Asimov;1951;Ciencia Ficcion;None
+179;Fundacion e Imperio;Isaac Asimov;1952;Ciencia Ficcion;None
+180;Segunda Fundacion;Isaac Asimov;1953;Ciencia Ficcion;None
+181;Yo, Robot;Isaac Asimov;1950;Ciencia Ficcion;None
+182;Cronicas marcianas;Ray Bradbury;1950;Ciencia Ficcion;None
+183;El Aleph;Jorge Luis Borges;1949;Relatos;None
+184;La tregua;Mario Benedetti;1960;Romance;None
+185;Los pasos perdidos;Alejo Carpentier;1953;Novela;None
+186;El senor presidente;Miguel Angel Asturias;1946;Novela;None
+187;Sobre heroes y tumbas;Ernesto Sabato;1961;Novela;None
+188;Abaddon el exterminador;Ernesto Sabato;1974;Novela;None
+189;Conversacion en La Catedral;Mario Vargas Llosa;1969;Novela;None
+190;La fiesta del Chivo;Mario Vargas Llosa;2000;Novela;None
+191;Lituma en los Andes;Mario Vargas Llosa;1993;Misterio;None
+192;Crónica de una muerte anunciada;Gabriel Garcia Marquez;1981;Novela;None
+193;El coronel no tiene quien le escriba;Gabriel Garcia Marquez;1961;Novela;None
+194;La hojarasca;Gabriel Garcia Marquez;1955;Novela;None
+195;Los de abajo;Mariano Azuela;1916;Historica;None
+196;Aura;Carlos Fuentes;1962;Misterio;None
+197;La muerte de Artemio Cruz;Carlos Fuentes;1962;Novela;None
+198;Terra Nostra;Carlos Fuentes;1975;Novela;None
+199;El laberinto de la soledad;Octavio Paz;1950;Ensayo;None
+200;La catedral del mar;Ildefonso Falcones;2006;Historica;201
+002;El extranjero;Albert Camus;1900;Suspenso;None
