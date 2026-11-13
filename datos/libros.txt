@@ -23,7 +23,7 @@
 123;El tuned;Ernesto Sabato;1948;Novela;None
 124;La ciudad y los perros;Mario Vargas Llosa;1963;Novela;None
 125;El amor en los tiempos del colera;Gabriel Garcia Marquez;1985;Romance;None
-126;La Odisea;Homero;-800;Clasico;204
+126;La Odisea;Homero;-800;Clasico;None
 127;La Iliada;Homero;-750;Clasico;None
 128;Hamlet;William Shakespeare;1601;Drama;None
 129;Romeo y Julieta;William Shakespeare;1597;Tragedia;None
@@ -97,4 +97,5 @@
 197;La muerte de Artemio Cruz;Carlos Fuentes;1962;Novela;None
 198;Terra Nostra;Carlos Fuentes;1975;Novela;None
 199;El laberinto de la soledad;Octavio Paz;1950;Ensayo;None
-200;La catedral del mar;Ildefonso Falcones;2006;Historica;None
+200;La catedral del mar;Ildefonso Falcones;2006;Historica;201
+002;El extranjero;Albert Camus;1900;Suspenso;None
