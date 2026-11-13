@@ -23,7 +23,7 @@
 123;El tuned;Ernesto Sabato;1948;Novela;None
 124;La ciudad y los perros;Mario Vargas Llosa;1963;Novela;None
 125;El amor en los tiempos del colera;Gabriel Garcia Marquez;1985;Romance;None
-126;La Odisea;Homero;-800;Clasico;None
+126;La Odisea;Homero;-800;Clasico;204
 127;La Iliada;Homero;-750;Clasico;None
 128;Hamlet;William Shakespeare;1601;Drama;None
 129;Romeo y Julieta;William Shakespeare;1597;Tragedia;None
